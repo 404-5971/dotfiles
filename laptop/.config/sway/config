@@ -11,7 +11,7 @@ font pango:Inter SemiBold 11
 
 exec waybar
 exec systemctl --user start elephant
-exec walker --qapplication-service
+exec walker --gapplication-service
 
 set $mod Mod4
 # Home row direction keys, like vim
