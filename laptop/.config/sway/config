@@ -21,7 +21,7 @@ set $up k
 set $right l
 
 set $term kitty
-set $menu walker
+set $menu nc -U /run/user/1000/walker/walker.sock
 
 ### Output configuration
 #
